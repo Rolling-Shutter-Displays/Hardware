@@ -1,5 +1,8 @@
 # Modulo LED
-Adaptado de: [Limitador de Corriente muy facil con transistor - Electgpl Electrónica](https://www.youtube.com/watch?v=E74G9sZfY-w)
+Circuito adaptado de: [Limitador de Corriente muy facil con transistor - Electgpl Electrónica](https://www.youtube.com/watch?v=E74G9sZfY-w)
+
+
+Footprint SMD del LED. Con añadido de disipador de pista de cobre (?).
 
 Componentes:
  - [LED 4W RGBW](https://spanish.alibaba.com/product-detail/best-selling-high-power-epistar-epiled-1w-3w-4w-12w-rgbw-smd-led-chip-60629203512.html?spm=a2700.8699010.normalList.1.4601419eitguAd&s=p)
